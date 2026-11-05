@@ -2,7 +2,6 @@
 # Project: FN1-mediated anoikis resistance in OSCC
 # Dataset: GSE160395 (GEO)
 # Analysis: Differential expression, Volcano Plot, Heatmap
-# Author: [Your Name]
 ############################################################
 
 ############################
