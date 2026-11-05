@@ -6,7 +6,7 @@
 
 ############################
 # 1. Install and load packages
-############################
+############################ 
 
 if (!requireNamespace("BiocManager", quietly = TRUE)) {
   install.packages("BiocManager")
