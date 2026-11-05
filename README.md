@@ -24,3 +24,11 @@ Analysis and Visualization
 2. Differential gene expression analysis.
 3. Volcano plot generation.
 4. Heatmap visualization.
+
+Results
+
+1.Volcano plot 
+The volcano plot represents differentially expressed genes based on log2 fold change and adjusted p-values.
+
+2.Heatmap 
+The heatmap illustrates gene expression patterns and similarities among samples
